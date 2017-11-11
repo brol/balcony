@@ -14,7 +14,7 @@ $this->registerModule(
 	/* Name */			"Balcony",
 	/* Description*/	"Theme illustrated by Sophie Griotto",
 	/* Author */		"annso, Pierre Van Glabeke",
-	/* Version */		'1.4',
+	/* Version */		'1.4.1',
 	array(
 		'type'	 =>	'theme',
 		'tplset' => 'mustek',

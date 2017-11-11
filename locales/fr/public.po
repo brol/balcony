@@ -1,29 +1,28 @@
+# Language: Français
+# Module: balcony - 1.4
+# Date: 2017-11-11 19:05:20
+# Translated with translater 2017.05.10
+
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: balcony 1.4\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: brol <contact@brol.info>\n"
+"PO-Revision-Date: 2017-11-11T19:05:20+00:00\n"
+"Last-Translator: brol\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: tpl/_footer.html:2
+msgid "Decorated by"
+msgstr "Décoré par"
+
+#: tpl/_footer.html:3
+msgid "Illustrated by"
+msgstr "Illustré par"
 
 msgid "Theme illustrated by Sophie Griotto"
 msgstr "Thème illustré par Sophie Griotto"
 
-msgid "Customizations"
-msgstr "Personnalisation"
-
-msgid "Menu to display:"
-msgstr "Menu à afficher :"
-
-msgid "none"
-msgstr "aucun"
-
-msgid "Decorated by"
-msgstr "Décoré par"
-
-msgid "Illustrated by"
-msgstr "Illustré par"
